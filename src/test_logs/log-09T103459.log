@@ -1,0 +1,5 @@
+10:35:00.345 [main] INFO  com.phonebook.TestBase -- Okey **@BeforeSuite
+10:35:00.421 [main] INFO  com.phonebook.TestBase -- Okey ****@BeforeSuite
+10:35:04.430 [main] INFO  com.phonebook.TestBase -- Hello world.
+10:35:04.436 [main] INFO  com.phonebook.TestBase -- Okey *******Third
+10:35:04.443 [main] INFO  com.phonebook.TestBase -- Okey ********For

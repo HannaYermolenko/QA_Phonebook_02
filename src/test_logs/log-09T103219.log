@@ -1,0 +1,3 @@
+10:32:21.256 [main] INFO  com.phonebook.TestBase -- Okey **@BeforeSuite
+10:32:21.407 [main] INFO  com.phonebook.TestBase -- Okey ****@BeforeSuite
+10:32:26.981 [main] INFO  com.phonebook.TestBase -- Hello world.

@@ -1,0 +1,8 @@
+10:30:16.809 [main] INFO  com.phonebook.TestBase -- Okey @BeforeSuite
+10:30:16.817 [main] INFO  com.phonebook.TestBase -- Okey @BeforeSuite
+10:30:21.396 [main] INFO  com.phonebook.TestBase -- Hello world.
+10:30:21.699 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
+10:30:21.860 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: email] is pressed
+10:30:22.183 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
+10:30:22.408 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed
+10:30:22.409 [main] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page

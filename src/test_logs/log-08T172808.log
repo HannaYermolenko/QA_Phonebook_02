@@ -1,0 +1,4 @@
+17:28:10.850 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\hanna\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+17:28:18.286 [main] INFO  com.phonebook.TestBase -- Hello world.

@@ -1,0 +1,8 @@
+18:55:23.281 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
+18:55:26.563 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountLoginPositiveTest]
+18:55:29.155 [main] INFO  com.phonebook.TestBase -- test is passed: [createAccountLoginPositiveTest]
+18:55:29.160 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountNegativeTest]
+18:55:35.290 [main] INFO  com.phonebook.TestBase -- test is passed: [createAccountNegativeTest]
+18:55:35.292 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountPositiveTest2]
+18:55:36.621 [main] INFO  com.phonebook.TestBase -- test is passed: [createAccountPositiveTest2]
+18:55:36.628 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

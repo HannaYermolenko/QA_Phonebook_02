@@ -1,0 +1,4 @@
+12:37:28.628 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
+12:37:32.934 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest2]
+12:37:35.371 [main] INFO  com.phonebook.TestBase -- Test is FAILED: [loginExistedUserPositiveTest2], Screenshot: [C:\QAautoPhonebook\PhoneBook_2\src\test_screenshots\screen-1728470255098.png]
+12:37:35.379 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

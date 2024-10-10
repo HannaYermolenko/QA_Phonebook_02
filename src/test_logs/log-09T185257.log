@@ -1,0 +1,8 @@
+18:52:58.555 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
+18:53:02.351 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountLoginPositiveTest]
+18:53:04.828 [main] INFO  com.phonebook.TestBase -- test is passed: [createAccountLoginPositiveTest]
+18:53:04.831 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountNegativeTest]
+18:53:10.130 [main] INFO  com.phonebook.TestBase -- Test is FAILED: [createAccountNegativeTest], Screenshot: [C:\QAautoPhonebook\PhoneBook_2\src\test_screenshots\screen-1728492789869.png]
+18:53:10.134 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountPositiveTest2]
+18:53:15.510 [main] INFO  com.phonebook.TestBase -- Test is FAILED: [createAccountPositiveTest2], Screenshot: [C:\QAautoPhonebook\PhoneBook_2\src\test_screenshots\screen-1728492795206.png]
+18:53:15.523 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

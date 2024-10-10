@@ -1,0 +1,5 @@
+11:05:40.869 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
+11:05:44.921 [main] INFO  com.phonebook.TestBase -- test is started: [createAccountPositiveTest2]
+11:05:47.031 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountPositiveTest2]
+11:05:47.032 [main] INFO  com.phonebook.TestBase -- Test is ended: [createAccountPositiveTest2]
+11:05:47.038 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

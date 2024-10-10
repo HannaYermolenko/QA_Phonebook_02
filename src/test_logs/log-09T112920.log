@@ -1,0 +1,6 @@
+11:29:22.734 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
+11:29:28.280 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest1]
+11:29:30.356 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest2]
+11:29:30.362 [main] INFO  com.phonebook.TestBase -- Okey ********For
+11:29:31.615 [main] INFO  com.phonebook.TestBase -- test is started: [loginNegativeWOEmailTest]
+11:29:38.118 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****
