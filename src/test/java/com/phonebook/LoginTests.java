@@ -13,6 +13,7 @@ public class LoginTests extends TestBase {
 
     @BeforeMethod
     public void preCondition() {
+        String data = "fgdfd";
         if (app.getUserHelper().isSignOutButtonPresent()) {
             app.getUserHelper().logout();
         }
