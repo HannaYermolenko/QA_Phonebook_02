@@ -1,5 +1,0 @@
-23:46:04.405 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
-23:46:06.901 [main] INFO  com.phonebook.TestBase -- test is started: [isHomeComponentPresentTest]
-23:46:06.926 [main] INFO  com.phonebook.TestBase -- Element was found
-23:46:11.991 [main] INFO  com.phonebook.TestBase -- test is passed: [isHomeComponentPresentTest]
-23:46:11.995 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

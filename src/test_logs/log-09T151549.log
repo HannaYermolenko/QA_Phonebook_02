@@ -1,8 +1,0 @@
-15:15:50.460 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
-15:15:53.659 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest1]
-15:15:55.150 [main] INFO  com.phonebook.TestBase -- test is passed: [loginExistedUserPositiveTest1]
-15:15:55.154 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest2]
-15:15:55.915 [main] INFO  com.phonebook.TestBase -- test is passed: [loginExistedUserPositiveTest2]
-15:15:55.919 [main] INFO  com.phonebook.TestBase -- test is started: [loginNegativeWOEmailTest]
-15:16:01.817 [main] INFO  com.phonebook.TestBase -- test is passed: [loginNegativeWOEmailTest]
-15:16:01.823 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

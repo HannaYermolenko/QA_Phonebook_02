@@ -1,6 +1,0 @@
-11:17:58.092 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
-11:18:02.148 [main] INFO  com.phonebook.TestBase -- test is started: [loginExistedUserPositiveTest1]
-11:18:03.969 [main] INFO  com.phonebook.TestBase -- Test is started: [loginExistedUserPositiveTest1], with data: [password=QwertyuycZ1223@@, email=usertestqaphone4@gmail.com]
-11:18:03.969 [main] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1], with data: [password=QwertyuycZ1223@@, email=usertestqaphone4@gmail.com]
-11:18:03.970 [main] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
-11:18:03.975 [main] INFO  com.phonebook.TestBase -- *****Tests Done*****

@@ -1,4 +1,0 @@
-19:58:23.230 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
-19:58:25.584 [main] INFO  com.phonebook.TestBase -- test is started: [addContactPositiveTest]
-19:58:28.859 [main] INFO  com.phonebook.TestBase -- test is passed: [addContactPositiveTest]
-19:58:28.865 [main] INFO  com.phonebook.TestBase -- test is started: [addContactPositiveWithoutDescriptionTest]

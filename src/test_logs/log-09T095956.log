@@ -1,5 +1,0 @@
-10:00:04.064 [main] INFO  com.phonebook.TestBase -- Hello world.
-10:00:04.391 [main] INFO  com.phonebook.core.BaseHelper -- [By.xpath: //a[.='LOGIN']] is pressed
-10:00:04.619 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: email] is pressed
-10:00:05.128 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: password] is pressed
-10:00:05.468 [main] INFO  com.phonebook.core.BaseHelper -- [By.name: login] is pressed

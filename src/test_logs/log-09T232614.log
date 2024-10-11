@@ -1,4 +1,0 @@
-23:26:15.913 [main] INFO  com.phonebook.TestBase -- *****Testing in progress*****
-23:26:18.474 [main] INFO  com.phonebook.TestBase -- test is started: [createOneAndDeleteOneContactTest]
-23:26:22.047 [main] INFO  com.phonebook.TestBase -- test is passed: [createOneAndDeleteOneContactTest]
-23:26:22.049 [main] INFO  com.phonebook.TestBase -- test is started: [deleteAllContactTests]
